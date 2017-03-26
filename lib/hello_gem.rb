@@ -8,3 +8,5 @@ module HelloGem
     end
   end
 end
+
+require 'hello_gem/hello'
